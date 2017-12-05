@@ -1,3 +1,3 @@
 # PebbleDicT
-Dictionary for Pebble watch.<br>
+First voice based dictionary for Pebble time smartwatch.<br>
 Available on Pebble app store. 
